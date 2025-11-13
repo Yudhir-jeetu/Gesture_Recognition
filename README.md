@@ -44,7 +44,7 @@ psutil>=5.9.5
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/M-Yudhir/gesture-recognition-system.git
+git clone https://github.com/Yudhir-jeetu/Gesture_Recognition.git
 cd gesture-recognition-system
 ```
 
@@ -210,13 +210,3 @@ Contributions are welcome! Please feel free to submit issues, feature requests, 
 - **TensorFlow Lite** - Lightweight machine learning inference
 - **PyAutoGUI** - Cross-platform GUI automation
 
-
-
-
-
-## Author
-
-**M. Yudhir** 
-
-
----
